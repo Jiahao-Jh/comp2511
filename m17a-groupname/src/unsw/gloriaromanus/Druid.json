@@ -1,0 +1,16 @@
+{
+    "numTroops" : 15,
+    "range" : 2,  
+    "armour" : 8,  
+    "morale" : 10,
+    "speed" : 16,
+    "attack" : 10,
+    "charge" : 0,
+    "defenseSkill" : 12,
+    "shieldDefense" : 3,
+    "rangedAttack" : 0,
+    "cost" : 120,
+    "costTurns" : 4,
+    "type" : "druid",
+    "mp" : 8
+}

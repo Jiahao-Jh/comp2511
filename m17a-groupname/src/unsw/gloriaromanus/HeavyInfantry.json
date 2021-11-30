@@ -1,0 +1,15 @@
+{
+    "numTroops" : 50,
+    "range" : 1,  
+    "armour" : 5,  
+    "morale" : 10,
+    "speed" : 10,
+    "attack" : 6,
+    "charge" : 0,
+    "defenseSkill" : 10,
+    "shieldDefense" : 3,
+    "rangedAttack" : 0,
+    "cost" : 75,
+    "costTurns" : 2,
+    "type" : "heavy infantry"
+}

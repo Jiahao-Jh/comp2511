@@ -1,0 +1,36 @@
+{
+  "flight": "f2",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "flight": "f4",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "flight": "f7",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{"status": "rejected"}
+[]
+[{
+  "instructor": "Elephant",
+  "trainee": "Jiahao"
+}]
+[]
+[{
+  "instructor": "Cat",
+  "trainee": "Elephant"
+}]
+[]
+[]
+[{
+  "passenger": "Jiahao",
+  "jump-master": "Elephant"
+}]
+[]

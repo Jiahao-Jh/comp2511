@@ -1,0 +1,16 @@
+{
+    "numTroops" : 15,
+    "range" : 1,  
+    "armour" : 0,  
+    "morale" : 10,
+    "speed" : 10,
+    "attack" : 12,
+    "charge" : 0,
+    "defenseSkill" : 10,
+    "shieldDefense" : 0,
+    "rangedAttack" : 0,
+    "cost" : 135,
+    "costTurns" : 3,
+    "type" : "berserker",
+    "mp" : 8
+}

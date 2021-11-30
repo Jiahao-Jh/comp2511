@@ -1,0 +1,16 @@
+{
+    "numTroops" : 10,
+    "range" : 3,  
+    "armour" : 3,  
+    "morale" : 10,
+    "speed" : 3,
+    "attack" : 6,
+    "charge" : 0,
+    "defenseSkill" : 4,
+    "shieldDefense" : 0,
+    "rangedAttack" : 15,
+    "cost" : 150,
+    "costTurns" : 4,
+    "type" : "Artillery",
+    "mp" : 4
+}

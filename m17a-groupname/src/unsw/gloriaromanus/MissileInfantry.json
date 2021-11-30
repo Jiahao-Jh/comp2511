@@ -1,0 +1,16 @@
+{
+    "numTroops" : 10,
+    "range" : 3,  
+    "armour" : 2,  
+    "morale" : 10,
+    "speed" : 8,
+    "attack" : 2,
+    "charge" : 0,
+    "defenseSkill" : 6,
+    "shieldDefense" : 0,
+    "rangedAttack" : 8,
+    "cost" : 75,
+    "costTurns" : 1,
+    "type" : "Missile Infantry",
+    "mp" : 4
+}

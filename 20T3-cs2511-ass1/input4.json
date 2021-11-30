@@ -1,0 +1,9 @@
+{ "command": "flight", "id": "f2", "dropzone": "Sydney", "starttime": "2020-10-01T14:00", "endtime": "2020-10-01T14:30", "maxload": 5 }
+{ "command": "flight", "id": "f3", "dropzone": "Sydney", "starttime": "2020-10-01T14:50", "endtime": "2020-10-01T15:30", "maxload": 3 }
+{ "command": "flight", "id": "f4", "dropzone": "Sydney", "starttime": "2020-10-01T16:00", "endtime": "2020-10-01T16:30", "maxload": 4 }
+
+{ "command": "skydiver", "skydiver": "Jiahao", "licence": "student"}
+{ "command": "skydiver", "skydiver": "Elephant", "licence": "tandem-master", "dropzone": "Sydney"}
+
+{ "command": "request", "type": "training", "id": "i1", "starttime": "2020-10-01T10:00", "trainee": "Jiahao" }
+{ "command": "request", "type": "tandem", "id": "training debrefing time + repack", "starttime": "2020-10-01T14:50", "passenger": "Jiahao" }

@@ -1,0 +1,53 @@
+{ "command": "flight", "id": "f1", "dropzone": "Sydney", "starttime": "2020-10-01T14:00", "endtime": "2020-10-01T14:30", "maxload": 1 }
+{ "command": "flight", "id": "f2", "dropzone": "Sydney", "starttime": "2020-10-01T14:00", "endtime": "2020-10-01T14:30", "maxload": 5 }
+{ "command": "flight", "id": "f3", "dropzone": "Sydney", "starttime": "2020-10-01T15:00", "endtime": "2020-10-01T15:30", "maxload": 3 }
+{ "command": "flight", "id": "f4", "dropzone": "Sydney", "starttime": "2020-10-01T16:00", "endtime": "2020-10-01T16:30", "maxload": 4 }
+{ "command": "flight", "id": "f5", "dropzone": "Sydney", "starttime": "2020-10-01T16:20", "endtime": "2020-10-01T17:00", "maxload": 4 }
+{ "command": "flight", "id": "f6", "dropzone": "Sydney", "starttime": "2020-10-02T07:00", "endtime": "2020-10-02T07:30", "maxload": 4 }
+{ "command": "flight", "id": "f8", "dropzone": "Melbourne", "starttime": "2020-10-02T08:00", "endtime": "2020-10-02T08:30", "maxload": 4 }
+{ "command": "flight", "id": "f7", "dropzone": "Sydney", "starttime": "2020-10-02T08:00", "endtime": "2020-10-02T08:30", "maxload": 4 }
+
+{ "command": "skydiver", "skydiver": "Jiahao", "licence": "student"}
+{ "command": "skydiver", "skydiver": "Apple", "licence": "student"}
+{ "command": "skydiver", "skydiver": "Ball", "licence": "licenced-jumper"}
+{ "command": "skydiver", "skydiver": "Cat", "licence": "instructor", "dropzone": "Sydney"}
+{ "command": "skydiver", "skydiver": "Dog", "licence": "instructor", "dropzone": "Sydney"}
+{ "command": "skydiver", "skydiver": "Elephant", "licence": "tandem-master", "dropzone": "Sydney"}
+{ "command": "skydiver", "skydiver": "Fish", "licence": "tandem-master", "dropzone": "Outspace"}
+
+
+{ "command": "request", "type": "training", "id": "i1", "starttime": "2020-10-01T10:00", "trainee": "Apple" }
+{ "command": "request", "type": "training", "id": "Dog will take jiahao", "starttime": "2020-10-01T15:30", "trainee": "Jiahao" }
+{ "command": "jump-run", "id": "f2" }
+{ "command": "jump-run", "id": "f4" }
+
+{ "command": "cancel", "id": "i1" }
+{ "command": "cancel", "id": "Dog will take jiahao" }
+{ "command": "request", "type": "training", "id": "i1", "starttime": "2020-10-01T10:00", "trainee": "Apple" }
+{ "command": "request", "type": "training", "id": "Dog will take jiahao", "starttime": "2020-10-01T15:30", "trainee": "Jiahao" }
+{ "command": "jump-run", "id": "f2" }
+{ "command": "jump-run", "id": "f4" }
+
+{ "command": "cancel", "id": "i1" }
+{ "command": "cancel", "id": "Dog will take jiahao" }
+{ "command": "request", "type": "training", "id": "Cat will take jiahao", "starttime": "2020-10-01T15:30", "trainee": "Jiahao" }
+{ "command": "request", "type": "training", "id": "i1", "starttime": "2020-10-01T10:00", "trainee": "Apple" }
+{ "command": "jump-run", "id": "f2" }
+{ "command": "jump-run", "id": "f4" }
+
+{ "command": "change", "type": "training", "id": "Cat will take jiahao", "starttime": "2050-10-01T15:30", "trainee": "Jiahao" }
+{ "command": "change", "type": "fun", "id": "i1", "starttime": "2020-10-02T08:00", "skydivers": ["Elephant", "Ball", "Cat", "Dog"] }
+{ "command": "jump-run", "id": "f4" }
+{ "command": "jump-run", "id": "f7" }
+
+{ "command": "change", "type": "training", "id": "Cat will take jiahao", "starttime": "2020-10-01T15:30", "trainee": "Jiahao" }
+{ "command": "change", "type": "training", "id": "i1", "starttime": "2020-10-01T10:00", "trainee": "Apple" }
+
+{ "command": "jump-run", "id": "f1" }
+{ "command": "jump-run", "id": "f2" }
+{ "command": "jump-run", "id": "f3" }
+{ "command": "jump-run", "id": "f4" }
+{ "command": "jump-run", "id": "f5" }
+{ "command": "jump-run", "id": "f6" }
+{ "command": "jump-run", "id": "f7" }
+{ "command": "jump-run", "id": "f8" }

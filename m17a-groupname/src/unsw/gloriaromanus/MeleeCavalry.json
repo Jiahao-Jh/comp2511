@@ -1,0 +1,16 @@
+{
+    "numTroops" : 15,
+    "range" : 1,  
+    "armour" : 3,  
+    "morale" : 10,
+    "speed" : 20,
+    "attack" : 14,
+    "charge" : 5,
+    "defenseSkill" : 4,
+    "shieldDefense" : 0,
+    "rangedAttack" : 0,
+    "cost" : 150,
+    "costTurns" : 4,
+    "type" : "Melee Cavalry",
+    "mp" : 12
+}

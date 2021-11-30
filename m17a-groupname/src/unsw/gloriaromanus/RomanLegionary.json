@@ -1,0 +1,16 @@
+{
+    "numTroops" : 10,
+    "range" : 2,  
+    "armour" : 5,  
+    "morale" : 10,
+    "speed" : 12,
+    "attack" : 10,
+    "charge" : 0,
+    "defenseSkill" : 12,
+    "shieldDefense" : 3,
+    "rangedAttack" : 0,
+    "cost" : 125,
+    "costTurns" : 3,
+    "type" : "Roman Legionary",
+    "mp" : 8
+}

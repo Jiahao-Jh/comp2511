@@ -1,0 +1,94 @@
+{
+  "flight": "f2",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{
+  "flight": "f4",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+[{
+  "instructor": "Cat",
+  "trainee": "Apple"
+}]
+[{
+  "instructor": "Dog",
+  "trainee": "Jiahao"
+}]
+{
+  "flight": "f2",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{
+  "flight": "f4",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+[{
+  "instructor": "Cat",
+  "trainee": "Apple"
+}]
+[{
+  "instructor": "Dog",
+  "trainee": "Jiahao"
+}]
+{
+  "flight": "f4",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{
+  "flight": "f2",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+[{
+  "instructor": "Dog",
+  "trainee": "Apple"
+}]
+[{
+  "instructor": "Cat",
+  "trainee": "Jiahao"
+}]
+{"status": "rejected"}
+{
+  "flight": "f7",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+[{
+  "instructor": "Cat",
+  "trainee": "Jiahao"
+}]
+[{"skydivers": [
+  "Ball",
+  "Cat",
+  "Dog",
+  "Elephant"
+]}]
+{
+  "flight": "f4",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{
+  "flight": "f2",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+[]
+[{
+  "instructor": "Dog",
+  "trainee": "Apple"
+}]
+[]
+[{
+  "instructor": "Cat",
+  "trainee": "Jiahao"
+}]
+[]
+[]
+[]
+[]

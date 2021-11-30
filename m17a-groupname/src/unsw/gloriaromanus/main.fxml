@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+
+<?import com.esri.arcgisruntime.mapping.view.MapView?>
+
+<StackPane fx:id="stackPaneMain" stylesheets="/unsw/gloriaromanus/style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <MapView fx:id="mapView" />
+</StackPane>

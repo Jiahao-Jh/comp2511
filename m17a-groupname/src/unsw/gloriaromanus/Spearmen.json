@@ -1,0 +1,16 @@
+{
+    "numTroops" : 12,
+    "range" : 2,  
+    "armour" : 5,  
+    "morale" : 10,
+    "speed" : 12,
+    "attack" : 8,
+    "charge" : 0,
+    "defenseSkill" : 12,
+    "shieldDefense" : 0,
+    "rangedAttack" : 0,
+    "cost" : 100,
+    "costTurns" : 2,
+    "type" : "Spearmen",
+    "mp" : 8
+}

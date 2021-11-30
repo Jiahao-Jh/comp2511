@@ -1,0 +1,16 @@
+{
+    "numTroops" : 15,
+    "range" : 4,  
+    "armour" : 2,  
+    "morale" : 10,
+    "speed" : 20,
+    "attack" : 4,
+    "defenseSkill" : 2,
+    "shieldDefense" : 0,
+    "rangedAttack" : 8,
+    "cost" : 120,
+    "costTurns" : 2,
+    "charge" : 0,
+    "type" : "Horse Archer",
+    "mp" : 12
+}

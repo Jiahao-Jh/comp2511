@@ -1,0 +1,16 @@
+{
+    "numTroops" : 15,
+    "range" : 1,  
+    "armour" : 10,  
+    "morale" : 10,
+    "speed" : 8,
+    "attack" : 10,
+    "charge" : 0,
+    "defenseSkill" : 15,
+    "shieldDefense" : 2,
+    "rangedAttack" : 0,
+    "cost" : 150,
+    "costTurns" : 4,
+    "type" : "Pikemen",
+    "mp" : 4
+}

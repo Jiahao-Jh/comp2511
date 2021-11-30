@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.Background?>
+<?import javafx.scene.layout.BackgroundFill?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+
+<VBox maxWidth="250" spacing="10" styleClass="panel-region" stylesheets="/unsw/gloriaromanus/style.css" StackPane.alignment="TOP_LEFT" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="unsw.gloriaromanus.InfrastructureMenuController">
+    <padding>
+        <Insets topRightBottomLeft="10" />
+    </padding>
+    <background>
+        <Background>
+            <fills>
+                <BackgroundFill>
+                    <fill>
+                        <Color opacity="0.3" />
+                    </fill>
+                </BackgroundFill>
+            </fills>
+        </Background>
+    </background>
+    <HBox>
+        <VBox />
+        <VBox />
+    </HBox>
+    <VBox>
+        <Label text="Infrastructure Details" />
+        <TextArea id="output_terminal" fx:id="output_terminal" editable="false" text="" />
+    </VBox>
+   <Button mnemonicParsing="false" onAction="#buildFarm" prefHeight="26.0" prefWidth="135.0" text="Build Farm" />
+   <Button mnemonicParsing="false" onAction="#upgradeFarm" prefHeight="26.0" prefWidth="135.0" text="Upgrade Farm" />
+   <Button mnemonicParsing="false" onAction="#buildMine" prefHeight="26.0" prefWidth="135.0" text="Build Mine" />
+   <Button mnemonicParsing="false" onAction="#upgradeMine" prefHeight="26.0" prefWidth="135.0" text="Upgrade Mine" />
+   <Button mnemonicParsing="false" onAction="#buildMarket" prefHeight="26.0" prefWidth="135.0" text="Build Market" />
+   <Button mnemonicParsing="false" onAction="#upgradeMarket" prefHeight="26.0" prefWidth="135.0" text="Upgrade Market" />
+   <Button mnemonicParsing="false" onAction="#buildPort" prefHeight="26.0" prefWidth="135.0" text="Build Port" />
+   <Button mnemonicParsing="false" onAction="#upgradePort" prefHeight="26.0" prefWidth="135.0" text="Upgrade Port" />
+   <Button mnemonicParsing="false" onAction="#buildTrain" text="Build Train Building" />
+   <Button mnemonicParsing="false" onAction="#cancel" text="Cancel Building" />
+   <Button mnemonicParsing="false" onAction="#EndTurn" text="End Turn" />
+    <Button onAction="#Back" text="Back" />
+</VBox>

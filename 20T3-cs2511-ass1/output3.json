@@ -1,0 +1,60 @@
+{"status": "rejected"}
+{
+  "flight": "f2",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{
+  "flight": "f4",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "flight": "f7",
+  "dropzone": "Sydney",
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "flight": "f8",
+  "dropzone": "Melbourne",
+  "status": "success"
+}
+{
+  "flight": "f10",
+  "dropzone": "Brisbane",
+  "status": "success"
+}
+[]
+[{"skydivers": [
+  "Ball",
+  "Cat",
+  "Dog",
+  "Elephant"
+]}]
+[]
+[{"skydivers": [
+  "Ball",
+  "Cat",
+  "Dog",
+  "Elephant"
+]}]
+[]
+[]
+[{"skydivers": [
+  "Ball",
+  "Cat",
+  "Dog",
+  "Elephant"
+]}]
+[{"skydivers": ["Fish"]}]
+[]
+[{"skydivers": [
+  "Ball",
+  "Cat",
+  "Dog",
+  "Elephant",
+  "Fish"
+]}]
+[]

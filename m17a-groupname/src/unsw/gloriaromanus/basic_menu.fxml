@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Background?>
+<?import javafx.scene.layout.BackgroundFill?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+
+<VBox maxWidth="150" spacing="10" styleClass="panel-region" stylesheets="/unsw/gloriaromanus/style.css" StackPane.alignment="TOP_LEFT" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="unsw.gloriaromanus.BasicMenuController">
+    <padding>
+        <Insets topRightBottomLeft="10" />
+    </padding>
+    <background>
+        <Background>
+            <fills>
+                <BackgroundFill>
+                    <fill>
+                        <Color opacity="0.3" />
+                    </fill>
+                </BackgroundFill>
+            </fills>
+        </Background>
+    </background>
+    <Button onAction="#changeToInvadeMenu" prefHeight="26.0" prefWidth="108.0" text="Invade" />
+   <Button mnemonicParsing="false" onAction="#changeToTaxMenu" prefHeight="26.0" prefWidth="108.0" text="Tax" />
+   <Button mnemonicParsing="false" onAction="#changeToSoldierMenu" prefHeight="26.0" prefWidth="108.0" text="Soldier" />
+   <Button mnemonicParsing="false" onAction="#changeToInfrastructureMenu" text="Infrastucture " />
+   <Button mnemonicParsing="false" onAction="#changeToTrainMenu" prefHeight="26.0" prefWidth="108.0" text="Train" />
+   <Button mnemonicParsing="false" onAction="#changeToSaveMenu" text="Save game " />
+   <Button mnemonicParsing="false" onAction="#EndTurn" text="End Turn" />
+</VBox>
